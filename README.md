@@ -29,7 +29,7 @@ Key highlights:
 - ANN_PSO.ipynb → ANN optimized using Particle Swarm Optimization
 - ANN_DE.ipynb → ANN optimized using Differential Evolution
 - DE_BO.ipynb → Hybrid Differential Evolution + Bayesian Optimization
-- Additional notebooks → PyHopper and BOHB implementations
+- pyHopper.ipynb → Hyperparameter tuning using PyHopper
 
 Each notebook is self-contained and includes:
 
@@ -52,6 +52,7 @@ The project provides insights into:
 - Trade-offs between exploration and exploitation
 - Performance differences across evolutionary vs probabilistic methods
 - Effectiveness of hybrid optimization approaches
+- Practical effectiveness of PyHopper in structured search spaces
 Detailed results and comparisons are documented within the notebooks and accompanying analysis.
 
 ---
